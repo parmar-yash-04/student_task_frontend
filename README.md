@@ -1,6 +1,6 @@
 # React + Vite
 
-[student-task-frontend-eight.vercel.app](https://student-task-frontend-eight.vercel.app/login)
+https://student-task-frontend-eight.vercel.app/login
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
